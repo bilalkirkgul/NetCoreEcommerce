@@ -1,0 +1,98 @@
+﻿@model List<ProductVM>
+
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="product-details-area hm-3-padding ptb-130 mt-100">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="product-details-img-content">
+                    <div class="product-details-tab mr-40">
+                        <div>
+                            <div id="pro-details1">
+                                <div >
+                                        <img id="productUrl">                                 
+                                </div>
+                            </div>
+                          
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="product-details-content" style="margin-right:25px">
+                    <h2 id="brandName"></h2>
+
+                    <div class="product-overview">
+                        <h5 class="pd-sub-title" id="productName"></h5>
+                        <p id="productDescription"></p><p id="brandDescription"></p>
+                    </div>
+
+                    <div class="product-price">
+
+                        <span id="price"></span>
+                    </div>
+                  
+                    <div class="quickview-plus-minus" style="margin-top:75px">
+
+                        <div class="quickview-btn-cart">
+                            <a class="btn-style cr-btn" asp-controller="Home" asp-action="Index"><span>Geri</span></a>
+                            <a class="btn-style cr-btn" href="#" onclick="AddToMyCart()"><span>Sepete Ekle</span></a>
+                        </div>
+
+                    </div>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    <script>
+    $(document).ready(function () {
+        var id =@ViewContext.RouteData.Values["id"];
+        $.ajax({
+            type: "GET",
+            url: "http://localhost:61714/api/Product/GetProductById/" + id,
+            success: function (data) {
+                $("#productUrl").attr("src", data.productImgUrl);
+                $("#brandName").text(data.brandName);
+                $("#productName").text(data.productName+" "+data.description);
+                $("#price").text(data.price+" "+("₺"));
+                $("#brandDescription").text(data.brand.description);
+            }
+        });
+
+    });
+
+    function AddToMyCart() {
+        var id =@ViewContext.RouteData.Values["id"];
+        $.ajax({
+            type: "GET",
+            url: "http://localhost:61714/api/Product/GetCartItemById/" + id,
+            async: false,
+            success: function (data) {
+                $.ajax({
+                    type: "POST",
+                    url: "/Cart/AddToCart",
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(data),
+                    success: function (data) {
+                        $("#cartButton").html(data);
+                    }
+                });
+            }
+        });
+
+    }
+
+
+    </script>
+
+
+ }

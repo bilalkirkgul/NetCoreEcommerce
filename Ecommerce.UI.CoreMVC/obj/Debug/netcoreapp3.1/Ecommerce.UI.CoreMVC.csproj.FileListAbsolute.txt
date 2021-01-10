@@ -1,0 +1,332 @@
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.exe
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.csprojAssemblyReference.cache
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.AssemblyInfoInputs.cache
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.AssemblyInfo.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.RazorTargetAssemblyInfo.cache
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\staticwebassets\Ecommerce.UI.CoreMVC.StaticWebAssets.Manifest.cache
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\staticwebassets\Ecommerce.UI.CoreMVC.StaticWebAssets.xml
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.deps.json
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.runtimeconfig.json
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.runtimeconfig.dev.json
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.pdb
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.pdb
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.genruntimeconfig.cache
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.csproj.CopyComplete
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.BLL.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.Core.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.DAL.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.Model.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.BLL.pdb
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.Core.pdb
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.DAL.pdb
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.Model.pdb
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.Views.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.Views.pdb
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.RazorAssemblyInfo.cache
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.RazorAssemblyInfo.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.TagHelpers.input.cache
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.TagHelpers.output.cache
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.RazorCoreGenerate.cache
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.RazorTargetAssemblyInfo.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.Views.pdb
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\_singleProducts.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\_singleCategoryFilters.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\_singleBrandFilters.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_cartButton.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Cart\_tableListCart.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\ActivationUser.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\_ViewImports.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Supplier\Index.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Supplier\_supplierList.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Supplier\AddSupplier.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\_categoriesList.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Update.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\_brandList.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Index.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\AddCategory.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\AddBrand.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Update.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Supplier\Update.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\_singleBrandFilters.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\_singleCategoryFilters.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\_singleProductList.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\AddProduct.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_loginModel.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Update.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.exe
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.deps.json
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.runtimeconfig.json
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.runtimeconfig.dev.json
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.pdb
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.Views.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.Views.pdb
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.BLL.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.Core.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.DAL.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.Model.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.BLL.pdb
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.Core.pdb
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.DAL.pdb
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\bin\Debug\netcoreapp3.1\Ecommerce.Model.pdb
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.csprojAssemblyReference.cache
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.AssemblyInfoInputs.cache
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.AssemblyInfo.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.RazorAssemblyInfo.cache
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.RazorAssemblyInfo.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.TagHelpers.input.cache
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.TagHelpers.output.cache
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.RazorCoreGenerate.cache
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\AddBrand.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Index.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Update.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\_brandList.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\AddCategory.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Update.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\_categoriesList.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\AddProduct.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Update.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\_singleBrandFilters.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\_singleCategoryFilters.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\_singleProductList.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Supplier\AddSupplier.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Supplier\Index.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Supplier\Update.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Supplier\_supplierList.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\_ViewImports.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\ActivationUser.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Cart\_tableListCart.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\_singleBrandFilters.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\_singleCategoryFilters.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\_singleProducts.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_cartButton.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_loginModel.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.RazorTargetAssemblyInfo.cache
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.RazorTargetAssemblyInfo.cs
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.Views.pdb
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.csproj.CopyComplete
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\staticwebassets\Ecommerce.UI.CoreMVC.StaticWebAssets.Manifest.cache
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\staticwebassets\Ecommerce.UI.CoreMVC.StaticWebAssets.xml
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.dll
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.pdb
+C:\Users\bilal_whzt3dm\Desktop\sertifika projesi\NetCoreEcommerce\Ecommerce.UI.CoreMVC\obj\Debug\netcoreapp3.1\Ecommerce.UI.CoreMVC.genruntimeconfig.cache

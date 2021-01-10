@@ -1,0 +1,58 @@
+﻿@model List<ProductVM>
+
+@foreach (ProductVM item in Model)
+{
+    if (item.IsActive == true)
+    {
+        <div class="product-width col-md-6 col-xl-3 col-lg-4">
+            <div class="product-wrapper mb-35">
+                <div class="product-img">
+                    <a asp-controller="Home" asp-action="Details" asp-route-id="@item.ProductID">
+                        <img src="@item.ProductImgUrl" alt="">
+                    </a>
+
+                    <div class="product-action-3">
+                        <a asp-controller="Home" asp-action="Details" asp-route-id="@item.ProductID">
+                            <i class="ti-plus"></i> Ürün Detay
+                        </a>
+                    </div>
+                </div>
+                <div class="product-content">
+                    <div class="product-title-wishlist">
+                        <div class="product-title-3">
+                            <h4><a>@item.BrandName</a></h4>
+                            <h4><a>@item.ProductName @item.Description </a></h4>
+
+                        </div>
+
+                    </div>
+                    <div class="product-peice-addtocart">
+                        <div class="product-peice-3">
+
+                            <span>@item.Price ₺</span>
+                        </div>
+                        <div class="product-addtocart">
+                            <a href="#" onclick="AddCart(@item.ProductID)"> <i class="ti-shopping-cart"></i> Sepete Ekle</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-list-details">
+                    <h2>@item.BrandName</h2>
+                    <h2>@item.ProductName @item.Description</h2>
+                    <div class="product-price">
+
+                        <span>@item.Price ₺</span>
+                    </div>
+
+                    <div class="shop-list-cart mt-10">
+                        <a href="#" onclick="AddCart(@item.ProductID)"><i class="ti-shopping-cart"></i> Sepete Ekle</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+
+
+
+}
+

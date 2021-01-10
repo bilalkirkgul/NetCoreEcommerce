@@ -1,0 +1,126 @@
+﻿
+@model MyCart
+
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="table-content table-responsive">
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="product-name">Ürün Resim</th>
+                            <th class="product-name">Marka</th>
+                            <th class="product-price">Model</th>
+                            <th class="product-price">Açıklama</th>
+                            <th class="product-name">Fiyat</th>
+                            <th class="product-price">Adet</th>
+                            <th class="product-quantity">Toplam Tutar</th>
+                            <th class="product-subtotal">Sil</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+
+                        @foreach (CartItem item in Model.GetAllCartItem)
+                        {
+                            <tr>
+                                <td class="product-thumbnail">
+                                    <a href="#"><img class="myCartImg" src="@item.ProductImgUrl" alt=""></a>
+                                </td>
+                                <td class="product-name">
+                                    <a href="#">@item.BrandNane</a>
+                                </td>
+                                <td class="product-name">
+                                    <a href="#">@item.Name</a>
+                                </td>
+                                <td class="product-name">
+                                    <a href="#">@item.Description</a>
+                                </td>
+                                <td class="product-price"><span class="amount">@item.Price</span></td>
+                                <td class="product-quantity">
+                                    <div class="quantity-range">
+                                        <input class="input-text qty text" type="number" step="1" min="0" value="@item.Amount" onclick="CartUpdate(this.value,@item.ID)" title="Qty" size="4">
+                                    </div>
+                                </td>
+                                <td class="product-subtotal">@item.SubTotal</td>
+
+                                <td class="product-cart-icon product-subtotal">
+                                    <a href="#" onclick="CartDelete(@item.ID)"><i class="ion-ios-trash-outline" aria-hidden="true"></i></a>
+                                </td>
+                            </tr>
+
+                        }
+
+
+
+
+                    </tbody>
+
+
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="cart-shiping-update">
+                <div class="cart-shipping">
+                    <a class="btn-style cr-btn" asp-controller="Home" asp-action="Index">
+                        <span>alışverişe devam</span>
+                    </a>
+                </div>
+                <!--<div class="update-checkout-cart">-->
+                    @*<div class="update-cart">
+                        <button class="btn-style cr-btn"><span>Alışverişe Devam</span></button>
+                    </div>*@
+                    @*<div class="update-cart">
+                        <a class="btn-style cr-btn" href="#">
+                            <span>Sipariş Ver</span>
+                        </a>
+                    </div>*@
+                <!--</div>-->
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-7 col-sm-6">
+            <div class="discount-code">
+                <h4>enter your discount code</h4>
+                <div class="coupon">
+                    <input type="text">
+                    <input class="cart-submit" type="submit" value="enter">
+                </div>
+            </div>
+        </div>
+        <div class="col-md-5 col-sm-6">
+            <div class="shop-total">
+                <h3>cart total</h3>
+                <ul>
+                    <li>
+                        ürün tutarı
+                        <span>@(Model.GetAllCartItem.Sum(a => a.SubTotal).ToString("C2"))</span>
+                    </li>
+                    <li>
+                        indirim
+                        <span>0 ₺</span>
+                    </li>
+                    <li class="order-total">
+                        kargo ücreti
+                        <span>0 ₺</span>
+                    </li>
+                    <li>
+                        sipariş tutarı
+                        <span>@(Model.GetAllCartItem.Sum(a => a.SubTotal).ToString("C2"))</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="cart-btn text-center mb-15">
+                <a asp-controller="Cart" asp-action="GetOrders">ödeme yap</a>
+            </div>
+            <div class="continue-shopping-btn text-center">
+                <a asp-controller="Home" asp-action="Index">Alışverişe Devan</a>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,54 @@
+﻿
+@model List<SupplierVM>
+
+
+<thead>
+    <tr>
+        <th class="product-name">ID</th>
+        <th class="product-name">CompanyName</th>
+        <th class="product-name">Adress</th>
+        <th class="product-name">City</th>
+        <th class="product-name">Country</th>
+        <th class="product-name">Phone Number</th>
+        <th class="product-name">IsActive</th>
+        <th class="product-name">Update</th>
+        <th class="product-subtotal">delete</th>
+    </tr>
+</thead>
+<tbody>
+
+    @foreach (SupplierVM item in Model)
+    {
+        <tr>
+            <td class="product-price"><span class="amount">@item.SupplierID</span></td>
+            <td class="product-price"><span class="amount">@item.CompanyName</span></td>
+            <td class="product-price"><span class="amount">@item.Address</span></td>
+            <td class="product-price"><span class="amount">@item.City</span></td>
+            <td class="product-price"><span class="amount">@item.Country</span></td>
+            <td class="product-price"><span class="amount">@item.PhoneNummer</span></td>
+            <td class="product-price"><span class="amount">@item.IsActive</span></td>
+            <td>
+                <a class="btn-style btn-warning" asp-area="Admin" asp-controller="Supplier" asp-action="Update" asp-route-id="@item.SupplierID" type="submit">Update</a>
+            </td>
+
+
+            <td>
+                @if (!item.IsActive)
+                {
+                    <button style="border-style:none" href="#" disabled class="btn-style btn-danger" onclick="SupplierDelete(@item.SupplierID)">Delete</button>
+
+                }
+                else
+                {
+                    <button style="border-style:none" href="#" class="btn-style btn-danger" onclick="SupplierDelete(@item.SupplierID)">Delete</button>
+                }
+            </td>
+
+
+
+        </tr>
+    }
+
+
+
+</tbody>

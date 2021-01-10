@@ -1,0 +1,18 @@
+﻿@model List<BrandVM>
+
+<h5>Markalar</h5>
+<ul class="sort-by">
+    <li><a href="#" onclick="GetProductListAll()">Tüm Markalar</a> </li>
+
+    @foreach (BrandVM item in Model)
+    {
+        if (item.IsActive == true)
+        {
+            <li><a href="#" onclick="GetProductByBrand(@item.BrandId)">@item.BrandName</a></li>
+        }
+
+    }
+
+</ul>
+
+

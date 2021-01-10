@@ -1,0 +1,46 @@
+﻿@model List<CategoryVM> 
+
+<thead>
+    <tr>
+        <th class="product-name">ID</th>
+        <th class="product-name">CategoryName</th>
+        <th class="product-name">Description</th>
+        <th class="product-name">IsActive</th>
+        <th class="product-name">Update</th>
+        <th class="product-name">Delete</th>
+
+    </tr>
+</thead>
+<tbody>
+
+
+    
+    @foreach (CategoryVM item in Model)
+    {
+    <tr>
+        <td class="product-price"><span class="amount">@item.CategoryID</span></td>
+        <td class="product-price"><span class="amount">@item.CategoryName</span></td>
+        <td class="product-price"><span class="amount">@item.Description</span></td>
+        <td class="product-price"><span class="amount">@item.IsActive</span></td>
+ 
+        <td>
+            <a class="btn-style btn-warning" asp-area="Admin" asp-controller="Category" asp-action="Update" asp-route-id="@item.CategoryID" type="submit">Update</a>
+        </td>
+        <td>
+            @if (!item.IsActive)
+            {
+                <button style="border-style:none" class="btn-style btn-danger" href="#" disabled onclick="CategoryDelete(@item.CategoryID)">Delete</button>
+            }
+            else
+            {
+                <button style="border-style:none" class="btn-style btn-danger" href="#" onclick="CategoryDelete(@item.CategoryID)">Delete</button>
+            }
+
+        </td>
+
+    </tr>
+    }
+
+
+
+</tbody>

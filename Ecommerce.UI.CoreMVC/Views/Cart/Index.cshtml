@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+@model MyCart
+
+<div class="product-cart-area hm-3-padding pt-120 pb-130 mt-100" id="sepet">
+    <partial name="_tableListCart" model="@Model" />
+</div>
+
+
+
+    @section scripts{
+        <script>
+            function CartUpdate(deger, cid) {
+                $.ajax({
+                    type: "GET",
+                    url: "/Cart/UpdateToCart",
+                    data: { amount: deger, id: cid },
+                    success: function (data) {
+                        GetCartButton()
+                        $("#sepet").html(data);
+                    }
+                })
+               
+            }
+            function CartDelete(cid) {
+                var cvp = confirm("Ürünü Silmek İstiyor Musunuz ?")
+                if (cvp) {
+                    $.ajax({
+                        type: "GET",
+                        url: "/Cart/DeleteToCart",
+                        data: { id: cid },
+                        success: function (data) {
+                            GetCartButton()
+                            $("#sepet").html(data);
+                        }
+                    });
+                }
+            }
+        </script>
+    }
+

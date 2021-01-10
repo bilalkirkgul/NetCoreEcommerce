@@ -1,0 +1,85 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="product-cart-area hm-3-padding pt-120 pb-130 mt-100">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12 ml-auto mr-auto">
+
+                <div id="alert">
+
+                </div>
+                <div class="table-content table-responsive">
+                    <table id="categoryList">
+                        @* _categoryList gelecek *@
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section scripts{
+    <script>
+
+        $(document).ready(function () {
+
+            GetCategoryList()
+
+        })
+
+        function GetCategoryList() {
+            $.ajax({
+                type: "GET",
+                url: "http://localhost:61714/api/Category/GetCategory",
+
+                success: function (response) {
+                    $.ajax({
+                        type: "POST",
+                        url: "http://localhost:61710/Admin/Category/GetCategoryList",//client url
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(response),
+                        success: function (data) {
+                            $("#categoryList").html(data);
+                        }
+                    });
+                }
+
+            })
+        }
+
+        function CategoryDelete(catid) {
+            var cvp = confirm("Kategoriyi silmek istediğine emin misiniz ?")
+
+            if (cvp) {
+                $.ajax({
+                    type: "GET",
+                    url: "http://localhost:61714/api/Category/DeleteCategoryById/" + catid,
+                    success: function (data) {
+                        if (cvp) {
+                            console.log(data)
+                            alert(data.message)
+                            location.reload();
+
+                        }
+                       
+                    }
+                   
+
+                });
+            }
+
+        }
+
+
+
+
+    </script>
+}
+
+
+

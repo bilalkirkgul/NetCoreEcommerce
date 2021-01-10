@@ -1,0 +1,17 @@
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.DAL\bin\Debug\netcoreapp3.1\Ecommerce.DAL.deps.json
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.DAL\bin\Debug\netcoreapp3.1\Ecommerce.DAL.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.DAL\obj\Debug\netcoreapp3.1\Ecommerce.DAL.csprojAssemblyReference.cache
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.DAL\obj\Debug\netcoreapp3.1\Ecommerce.DAL.AssemblyInfoInputs.cache
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.DAL\obj\Debug\netcoreapp3.1\Ecommerce.DAL.AssemblyInfo.cs
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.DAL\bin\Debug\netcoreapp3.1\Ecommerce.Core.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.DAL\bin\Debug\netcoreapp3.1\Ecommerce.Model.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.DAL\bin\Debug\netcoreapp3.1\Ecommerce.DAL.pdb
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.DAL\bin\Debug\netcoreapp3.1\Ecommerce.Model.pdb
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.DAL\bin\Debug\netcoreapp3.1\Ecommerce.Core.pdb
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.DAL\obj\Debug\netcoreapp3.1\Ecommerce.DAL.csproj.CopyComplete
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.DAL\obj\Debug\netcoreapp3.1\Ecommerce.DAL.dll
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.DAL\obj\Debug\netcoreapp3.1\Ecommerce.DAL.pdb
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.DAL\bin\Debug\netcoreapp3.1\Ecommerce.DAL.runtimeconfig.json
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.DAL\bin\Debug\netcoreapp3.1\Ecommerce.DAL.runtimeconfig.dev.json
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.DAL\obj\Debug\netcoreapp3.1\Ecommerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\bilal_whzt3dm\Desktop\NetCoreEcommerce\Ecommerce.DAL\obj\Debug\netcoreapp3.1\Ecommerce.DAL.genruntimeconfig.cache

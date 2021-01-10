@@ -1,0 +1,74 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="product-cart-area hm-3-padding pt-120 pb-130 mt-100">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-7 ml-auto mr-auto">
+                <div id="alert">
+
+                </div>
+                <div class="table-content table-responsive">
+                    <table id="brandList">
+                        @* _brandList gelecek *@
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+
+    <script>
+        $(document).ready(function () {
+
+            $.ajax({
+
+                type: "GET",
+                url: "http://localhost:61714/api/Brand/GetBrand",
+                success: function (response) {
+                    $.ajax({
+                        type: "POST",
+                        url: "http://localhost:61710/Admin/Brand/GetBrandList",//client url
+                        contentType: "application/json: charset=utf-8",
+                        data: JSON.stringify(response),
+                        success: function (data) {
+                            $("#brandList").html(data);
+                        }
+                    });
+                }
+            });
+
+
+        })
+
+
+        function DeleteBrand(brandid) {
+
+            var cvp = confirm("Markayı silmek istediğinize emin misiniz ?")
+
+            if (cvp) {
+                $.ajax({
+                    type: "GET",
+                    url: "http://localhost:61714/api/Brand/DeleteBrandById/" + brandid,
+                    success: function (data) {
+                        if (cvp) {
+                            alert(data.message)
+                            location.reload();
+
+                        }
+                    }
+                });
+
+            }
+        }
+
+    </script>
+
+
+}
+

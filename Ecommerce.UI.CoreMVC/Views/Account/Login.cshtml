@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="login-register-area ptb-130 hm-3-padding mt-100">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-7 ml-auto mr-auto">
+                <div class="login-register-wrapper">
+                    <div class="login-register-tab-list nav">
+                        <a class="active" data-toggle="tab" href="#lg1">
+                            <h4> login </h4>
+                        </a>
+                        <a data-toggle="tab" href="#lg2">
+                            <h4> register </h4>
+                        </a>
+                    </div>
+                    <div class="tab-content">
+                        <div id="lg1" class="tab-pane active">
+                            <div class="login-form-container">
+                                <div class="login-form">
+                                    <form asp-controller="Account" asp-action="Login" method="post">
+                                        <input type="text" name="Email" placeholder="Mail adresinizi giriniz">
+                                        <input type="password" name="Password" placeholder="Şifrenizi giriniz">
+                                        <div class="button-box">
+                                            @*<div class="login-toggle-btn">
+                                                    <input type="checkbox">
+                                                    <label>Remember me</label>
+                                                    <a href="#">Forgot Password?</a>
+                                                </div>*@
+                                            <button type="submit" class="btn-style cr-btn"><span>Giriş Yap</span></button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div id="lg2" class="tab-pane">
+                            <div class="login-form-container">
+                                <div class="login-form">
+                                    <form asp-controller="Account" asp-action="Register" method="post">
+                                        <input type="text" name="FirstName" placeholder="İsim">
+                                        <input type="text" name="LastName" placeholder="Soyisim">
+                                        <input type="email" name="Email" placeholder="Email Adresi">
+                                        <input type="password" name="Password" placeholder="Şifre">
+                                        <input type="date" name="BirthDate" placeholder="Doğum Tarihi">
+                                        @*<input type="text" name="Address" placeholder="Adresinizi Yazınız">*@
+                                        <textarea name="Address" placeholder="Adres bilginizi giriniz" style="margin-top: 0px; margin-bottom: 0px; height: 219px;"></textarea>
+                                        <div class="button-box">
+                                            <button type="submit" class="btn-style cr-btn"><span>Kayıt Ol</span></button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        @if (ViewContext.ViewBag.Message != null)
+                        {
+                            <div class="alert alert-danger" role="alert">
+                                @ViewContext.ViewBag.Message
+                            </div>
+                        }
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,236 @@
+﻿
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="product-details-area hm-3-padding ptb-130 mt-100">
+    <div class="container-fluid">
+        <div id="alert">
+
+        </div>
+        <div class="row">
+            <div class="col-lg-6 col-md-12 col-12">
+                <form asp-area="Admin" asp-controller="Product" asp-action="Update" class="form-group" method="post">
+                    <div class="checkbox-form">
+                        <div class="row">
+
+
+                            <div class="col-md-11">
+                                <div class="product-details-img-content">
+                                    <div class="product-details-tab mr-40 mt-10">
+                                        <div>
+                                            <div id="pro-details1">
+                                                <div>
+                                                    <img src="#" id="productUrl">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            <div class="col-lg-6 col-md-12 col-12">
+                <form  asp-area="Admin" asp-controller="Product" asp-action="Update" class="form-group" method="post">
+
+                    <div class="col-md-12">
+                        <div class="checkout-form-list">
+                            <label>Product Img <span class="required">*</span></label>
+                            <input type="file" id="productImg" onchange="ChangeImg()">
+                        </div>
+
+                    </div>
+                    <div class="col-md-12">
+                        <div class="checkout-form-list">
+                            <label>Product Name <span class="required">*</span></label>
+                            <input type="text" id="productName" placeholder="">
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="checkout-form-list">
+                            <label>Description <span class="required">*</span></label>
+                            <input type="text" id="description" placeholder="">
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="checkout-form-list">
+                            <label>Stock <span class="required">*</span></label>
+                            <input type="text" id="stock">
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="checkout-form-list">
+                            <label>Price <span class="required">*</span></label>
+                            <input type="text" id="price">
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="country-select">
+                            <label>Category <span class="required">*</span></label>
+                            <select id="cmbcategory">
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="country-select">
+                            <label>Supplier <span class="required">*</span></label>
+                            <select id="cmbsupplier">
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="country-select">
+                            <label>Brand <span class="required">*</span></label>
+                            <select id="cmbbrand">
+                            </select>
+                        </div>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6 col-md-9 col-9">
+                <div class="order-button-payment">
+                    <input type="submit" id="btnUpdateProduct" value="Update Product">
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts{ 
+<script>
+    $(document).ready(function () {
+        ChangeImg()
+     
+
+        var id =@ViewContext.RouteData.Values["id"]
+            $.ajax({
+                type: "GET",
+                url: "http://localhost:61714/api/Product/GetProductById/" + id,
+                success: function (data) {
+                    $("#productUrl").val(data.productImgUrl);
+                    $("#productName").val(data.productName);
+                    $("#description").val(data.description);
+                    $("#stock").val(data.stock);
+                    $("#price").val(data.price);
+                    $("#cmbcategory").val(data.categoryID);
+                    $("#cmbsupplier").val(data.supplierID);
+                    $("#cmbbrand").val(data.brandID);
+
+                }
+            })
+        $.ajax({
+            type: "GET",
+            url: "http://localhost:61714/api/Category/GetCategoryActive",
+
+            success: function (response) {
+
+                for (var i = 0; i < response.length; i++) {
+
+                    $("#cmbcategory").append(new Option(response[i].categoryName, response[i].categoryID))
+                }
+            }
+        });
+        $.ajax({
+            type: "GET",
+            url: "http://localhost:61714/api/Supplier/GetSuppliersActive",
+
+            success: function (response) {
+
+                for (var i = 0; i < response.length; i++) {
+
+                    $("#cmbsupplier").append(new Option(response[i].companyName, response[i].supplierID))
+                }
+            }
+        });
+        $.ajax({
+            type: "GET",
+            url: "http://localhost:61714/api/Brand/GetBrandActive",
+
+            success: function (response) {
+
+                for (var i = 0; i < response.length; i++) {
+
+                    $("#cmbbrand").append(new Option(response[i].brandName, response[i].brandID))
+                }
+            }
+        });
+    })
+    $("#btnUpdateProduct").click(function () {
+        var product = new Object();
+        product.ProductID =@ViewContext.RouteData.Values["id"];
+        var formData = new FormData();
+        formData.append('file', $("#productImg")[0].files[0])
+        $.ajax({
+            url: "http://localhost:61710/Admin/Product/AddProductImg",
+            type: "POST",
+
+            data: formData,
+            dataType: "json",
+            processData: false,
+            contentType: false,
+            success: function (data) {
+
+
+                product.ProductImgUrl = data.imgUrl;
+                product.ProductName = $("#productName").val();
+                product.Description = $("#description").val();
+                product.Stock = parseInt($("#stock").val());
+                product.Price = parseFloat($("#price").val());
+                product.CategoryID = parseInt($("#cmbcategory").val());
+                product.SupplierID = parseInt($("#cmbsupplier").val());
+                product.BrandID = parseInt($("#cmbbrand").val());
+
+                console.log(product)
+            
+                $.ajax({
+                    url: "http://localhost:61714/Api/Product/UpdateProduct",
+                    type: "POST",
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(product),
+                    success: function (data) {
+                        if (data.check == true) {
+                            $("#alert").html("<div class='alert alert-success' role='alert'>" + data.message + "</div>")
+                           
+                        } else {
+                            $("#alert").html("<div class='alert alert-danger' role='alert'>" + data.message + "</div>")
+                        }
+
+                    }
+
+                })
+
+            }
+        })
+
+
+    })
+    function ChangeImg() {
+        var resim = document.getElementById("productImg");
+        var image1 = document.getElementById("productUrl");
+
+        if (resim.files && resim.files[0]) {
+            var veri = new FileReader();//veri okuma apisi başlatıyoruz.
+
+            veri.onload = function () {//altta readAsDataURL verileri okuyoruz.O okuma tamamladığın da
+
+                var adres = veri.result;//veriyi al
+                //$("#pImg").attr("src", adres)
+                image1.src = adres
+
+            }
+            veri.readAsDataURL(resim.files[0]);//veri okuma
+        }
+
+    }
+
+</script>
+
+}

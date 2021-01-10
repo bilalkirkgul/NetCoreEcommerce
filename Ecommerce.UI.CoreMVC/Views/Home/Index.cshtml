@@ -1,0 +1,219 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+
+}
+
+
+<div class="shop-wrapper hm-3-padding pt-120 pb-100 mt-100">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="shop-topbar-wrapper">
+                    <div class="grid-list-options">
+                        <ul class="view-mode">
+                            <li class="active"><a href="#product-grid" data-view="product-grid"><i class="ion-grid"></i></a></li>
+                            <li><a href="#product-list" data-view="product-list"><i class="ion-navicon"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="checkout-form-list">
+                            <input id="search" type="text" onkeyup="Search()" placeholder="Arama yapmak için ....">
+                        </div>
+                    </div>
+                    <div class="shop-filter">
+                        <button class="product-filter-toggle">Filtrele</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="product-filter-wrapper">
+                    <div class="row">
+                        <div class="product-filter col-md-3 col-sm-6 col-xs-12 mb-30" id="brandfilters">
+                            @*!!!_singleBrandFilters!!!*@
+
+                        </div>
+
+                        <div class="product-filter col-md-3 col-sm-6 col-xs-12 mb-30" id="categoryfilters">
+                            @*!!!_singleCategoryFilters!!!*@
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="grid-list-product-wrapper">
+            <div class="product-grid product-view">
+                <div class="row" id="singleProducts">
+                   
+                    @*!!!_singleProducts!!!*@
+
+                </div>
+              
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+
+    <script>
+        $(document).ready(function () {
+            GetProductListAll()
+            $.ajax({
+                url: "http://localhost:61714/api/Brand/GetBrand",//service url
+                type: "GET",
+                success: function (response) {
+                    $.ajax({
+                        type: "POST",
+                        url: "http://localhost:61710/Home/GetBrandList",//client
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(response),
+                        success: function (data) {
+                            $("#brandfilters").html(data)
+                        }
+                    })
+                }
+            })
+
+
+            $.ajax({
+                url: "http://localhost:61714/api/Category/GetCategory",//service url
+                type: "GET",
+                success: function (response) {
+                    $.ajax({
+                        type: "POST",
+                        url: "http://localhost:61710/Home/GetCategoryList",//client
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(response),
+                        success: function (data) {
+                            $("#categoryfilters").html(data)
+                        }
+                    })
+                }
+            })
+
+        });
+
+        function GetProductByBrand(Id) {
+            $.ajax({
+                type: "GET",
+                url: "http://localhost:61714/api/Product/GetProductListBrand/" + Id, //service url
+
+                success: function (response) {
+                    $.ajax({
+                        type: "POST",
+                        url: "http://localhost:61710/Home/GetProducts",//client url
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(response),
+                        success: function (data) {
+                            $("#singleProducts").html(data);
+                        }
+                    });
+                }
+            })
+        }
+        function GetCategory(Id) {
+            $.ajax({
+                type: "GET",
+                url: "http://localhost:61714/api/Product/GetByCategory/" + Id,
+
+                success: function (response) {
+                    $.ajax({
+                        type: "POST",
+                        url: "http://localhost:61710/Home/GetProducts",
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(response),
+                        success: function (data) {
+                            $("#singleProducts").html(data);
+                        }
+                    });
+                }
+            });
+        }
+
+
+        function Search() {
+
+            var name = $("#search").val()
+
+            if (name.length==0)
+            {
+                GetProductListAll()
+            }
+            else {
+                $.ajax({
+                    type: "GET",
+                    url: "http://localhost:61714/api/Product/GetProductSearch/" + name,
+
+                    success: function (response) {
+                        $.ajax({
+                            type: "POST",
+                            url: "http://localhost:61710/Home/GetProducts",
+                            contentType: "application/json; charset=utf-8",
+                            data: JSON.stringify(response),
+                            success: function (data) {
+                                $("#singleProducts").html(data);
+                            }
+                        })
+                    }
+                })
+
+            }
+        }
+
+
+        function AddCart(id) {
+            console.log(id);
+            $.ajax({
+                type: "GET",
+                url: "http://localhost:61714/api/Product/GetCartItemById/" + id,
+                async: false,
+                success: function (data) {
+                    console.log(data)
+                    $.ajax({
+                        type: "POST",
+                        url: "/Cart/AddToCart",
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(data),
+                        success: function (data) {
+                            $("#cartButton").html(data);
+                        }
+                    });
+                }
+            });
+        }
+
+
+        //Tüm ürünleri listelemek için method oluşturdum...
+        function GetProductListAll() {
+            $.ajax({
+                type: "GET",
+                url: "http://localhost:61714/api/Product/GetProducts", 
+
+                success: function (response) {
+                    $.ajax({
+                        type: "POST",
+                        url: "http://localhost:61710/Home/GetProducts",
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(response),
+                        success: function (data) {
+                            $("#singleProducts").html(data);
+                        }
+                    });
+                }
+            })
+        }
+    </script>
+
+
+}
+
+
+
+
+
+

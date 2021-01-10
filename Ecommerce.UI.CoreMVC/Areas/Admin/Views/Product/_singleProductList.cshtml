@@ -1,0 +1,94 @@
+﻿@model List<ProductVM>
+
+
+
+
+        <div class="table-content table-responsive" style="border-spacing:5px;">
+            <table>
+                <thead>
+                    <tr>
+                        <th class="product-name">ProductImg</th>
+                        <th class="product-name">BrandName</th>
+                        <th class="product-price">ProductName</th>
+                        <th class="product-price">Description</th>
+                        <th class="product-price">Stock</th>
+                        <th class="product-name">Price</th>
+                        <th class="product-name">CategoryName</th>
+                        <th class="product-name">Continued</th>
+                        <th class="product-name">DisCounted</th>
+                        <th class="product-quantity">SuppCompanyName</th>
+                        <th class="product-quantity">CreatedDate</th>
+                        <th class="product-quantity">IsActive</th>
+                        <th class="product-subtotal">Güncelle</th>
+                        <th class="product-subtotal">Sil</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+
+                    @foreach (ProductVM item in Model)
+                    {
+                    <tr>
+                        <td class="product-thumbnail">
+                            <a href="#"><img class="myCartImg" src="@item.ProductImgUrl" alt=""></a>
+                        </td>
+                        <td class="product-name">
+                            <a href="#">@item.BrandName</a>
+                        </td>
+                        <td class="product-name">
+                            <a href="#">@item.ProductName</a>
+                        </td>
+                        <td class="product-name">
+                            <a href="#">@item.Description</a>
+                        </td>
+                        <td class="product-name">
+                            <a href="#">@item.Stock</a>
+                        </td>
+                        <td class="product-name">
+                            <a href="#">@item.Price</a>
+                        </td>
+                        <td class="product-name">
+                            <a href="#">@item.CategoryName</a>
+                        </td>
+                        <td class="product-name">
+                            <a href="#">@item.Continued</a>
+                        </td>
+                        <td class="product-name">
+                            <a href="#">@item.DisCounted</a>
+                        </td>
+                        <td class="product-name">
+                            <a href="#">@item.CompanyName</a>
+                        </td>
+
+
+                        <td class="product-price"><span class="amount">@item.CreatedDate</span></td>
+                        <td class="product-price"><span class="amount">@item.IsActive</span></td>
+                        <td>
+                            <a class="btn-style btn-warning" asp-area="Admin" asp-controller="Product" asp-action="Update" asp-route-id="@item.ProductID" type="submit">Update</a>
+                        </td>
+                        <td>
+                            @if (!item.IsActive)
+                            {
+                                <button style="border-style:none" class="btn-style btn-danger" href="#" disabled onclick="ProductDelete(@item.ProductID)">Delete</button>
+                            }
+                            else
+                            {
+                                <button style="border-style:none" class="btn-style btn-danger" href="#" onclick="ProductDelete(@item.ProductID)">Delete</button>
+                            }
+
+                        </td>
+
+                    </tr>
+
+                    }
+
+
+
+
+                </tbody>
+
+
+            </table>
+        </div>
+
+

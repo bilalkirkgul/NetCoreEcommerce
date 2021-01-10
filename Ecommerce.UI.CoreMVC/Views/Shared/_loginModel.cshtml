@@ -1,0 +1,33 @@
+﻿
+@model string
+
+
+@if (!string.IsNullOrEmpty(Model))
+{
+<div class="header-login same-style">
+    <a asp-controller="Home" asp-action="Index">
+        <span class="ti-user">@Model</span>
+
+    </a>
+   
+</div>
+
+
+<div>
+    <a asp-controller="Account" asp-action="Logout">
+        <span>Çıkış</span>
+
+    </a>
+</div>
+
+}
+else
+{
+    <div class="header-login same-style">
+        <a asp-controller="Account" asp-action="Login">
+            <span class="ti-user"></span>
+
+        </a>
+    </div>
+}
+

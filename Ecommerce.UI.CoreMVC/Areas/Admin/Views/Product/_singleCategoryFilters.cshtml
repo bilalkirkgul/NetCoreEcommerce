@@ -1,0 +1,15 @@
+﻿
+
+@model List<CategoryVM>
+
+<h5>Kategoriler</h5>
+<ul class="sort-by">
+    <li><a href="#" onclick="GetProductListAll()">Tüm Kategoriler</a> </li>
+
+    @foreach (CategoryVM item in Model)
+    {
+        <li><a href="#" onclick="GetCategory(@item.CategoryID)">@item.CategoryName</a></li>
+    }
+
+
+</ul>

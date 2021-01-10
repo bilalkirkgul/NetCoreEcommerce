@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Ecommerce.UI.CoreMVC.Areas.Admin.Models;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+
+namespace Ecommerce.UI.CoreMVC.Areas.Admin.Controllers
+{
+    [Area("Admin")]
+    [Authorize(Roles = "Admin")]
+    public class HomeController : Controller
+    {
+       
+        public IActionResult Index()
+        {
+            return View();
+        }
+
+     
+
+    }
+}

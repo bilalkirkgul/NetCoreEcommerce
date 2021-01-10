@@ -1,0 +1,100 @@
+﻿
+@{
+    ViewData["Title"] = "AddSupplier";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="checkout-area pt-130 hm-3-padding pb-100 mt-100">
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-lg-6 col-md-9 col-9">
+                <form class="form-group" method="post">
+                    <div class="checkbox-form">
+                        <h3>Add Supplier</h3>
+                        <div class="row">
+                            <div id="alert">
+
+                            </div>
+
+
+                            <div class="col-md-12">
+                                <div class="checkout-form-list">
+                                    <label>Company Name <span class="required">*</span></label>
+                                    <input type="text" name="CompanyName" id="companyName" placeholder="">
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="checkout-form-list">
+                                    <label>Address <span class="required">*</span></label>
+                                    <input type="text" name="Address" id="address" placeholder="Street address">
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="checkout-form-list">
+                                    <label>City <span class="required">*</span></label>
+                                    <input type="text" name="City" id="city">
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="checkout-form-list">
+                                    <label>Country <span class="required">*</span></label>
+                                    <input type="text" name="Country" id="country" placeholder="">
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="checkout-form-list">
+                                    <label>Phone  <span class="required">*</span></label>
+                                    <input type="text" name="PhoneNummer" id="phone">
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6 col-md-9 col-9">
+                <div class="order-button-payment">
+                    <input type="submit" id="btnAddSupplier" value="Add Supplier">
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+
+    <script>
+
+        $("#btnAddSupplier").click(function () {
+            var supplier = new Object();
+            supplier.CompanyName = $("#companyName").val();
+            supplier.Address = $("#address").val();
+            supplier.City = $("#city").val();
+            supplier.Country = $("#country").val();
+            supplier.PhoneNummer = $("#phone").val();
+            
+            $.ajax({
+
+                url: "http://localhost:61714/api/Supplier/AddSupplier",
+                type: "POST",
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(supplier),
+                success: function (data) {
+                    if (data.check) {
+                        $("#alert").html("<div class='alert alert-success' role='alert'>" + data.message + "</div>")
+                        window.location = "/Admin/Supplier/Index";
+                    } else {
+                        $("#alert").html("<div class='alert alert-danger' role='alert'>" + data.message + "</div>")
+                    }
+
+                }
+            })
+        })
+    </script>
+
+
+}
